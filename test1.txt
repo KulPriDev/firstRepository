@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is C4C2-DD72
+
+ Directory of C:\Users\Priya\OneDrive\Desktop\GitDemo
+
+03-11-2021  16:03    <DIR>          .
+03-11-2021  16:03    <DIR>          ..
+03-11-2021  16:03                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  388,406,923,264 bytes free
